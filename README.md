@@ -26,15 +26,4 @@ I welcome feedback, suggestions, and contributions! If you have ideas for improv
 
 This repository will continue to evolve as I explore new technologies and tackle new challenges. Follow along to stay updated on future projects and developments.
 
-## Popular Repositories
-
-- **KerryAnnUys**: Public configuration file for my GitHub profile.
-- **Exam**: Public repository for my 2024 Final Year Exam on SQL.
-- **UX-Design-Projects-2025**: Public repository for various UX design projects.
-- **R-Projects**: Public repository containing my R programming projects.
-- **BRD-StoryBoards-Diagrams**: Public repository for storyboards and diagrams.
-- **Python-Project**: Public Jupyter Notebook project.
-
----
-
-Thank you for visiting my repository! I look forward to your feedback and hope you find my work inspiring.
+Thank you for visiting my repository! :)
