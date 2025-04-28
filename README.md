@@ -1,22 +1,12 @@
 # About This Repository
 
-Welcome to my GitHub repository! This serves as my professional portfolio, showcasing a variety of projects that highlight my skills, growth, and expertise in software development and related technical explorations.
+Welcome to my GitHub repository! I am a dedicated, detail-orientated, and enthusiastic Informatics Honours student at Stellenbosch University. I have a diverse range of interests in the field of Informatics, with Data Analysis and Software
+Developement standing out. I am always seeking opportunities to gain further insight into these fields and broaden my knowledge.
 
-## Projects Overview
+This serves as my professional portfolio, showcasing a variety of projects that highlight my skills, growth, and expertise in software development, data analytics, and related technical explorations.
 
-This repository contains a diverse collection of projects, each accompanied by comprehensive documentation. Within each project folder, you will find:
-
-- **Development Process**: An overview of how the project was built.
-- **Challenges Encountered**: A discussion of the obstacles faced during development.
-- **Solutions Implemented**: Details on how the challenges were addressed.
-
-Whether you are here to explore, learn, or collaborate, I hope you find these projects valuable and insightful.
-
-## Navigating the Repository
-
-- **Project Files**: Each project folder includes all relevant files, such as source code, documentation, and supplementary resources.
-- **Project Documentation**: Accompanying each project is a blog-style explanation detailing its purpose, key features, and notable aspects.
-- **Getting Started**: Setup and installation instructions are contained within each project’s README file for those interested in exploring or using the projects.
+This repository contains a diverse collection of projects I have worked on in the past :)
+**Project Files**: Each project folder includes all relevant files, such as source code, documentation, and supplementary resources.
 
 ## Contributing
 
