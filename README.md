@@ -6,6 +6,7 @@ Developement standing out. I am always seeking opportunities to gain further ins
 This serves as my professional portfolio, showcasing a variety of projects that highlight my skills, growth, and expertise in software development, data analytics, and related technical explorations.
 
 This repository contains a diverse collection of projects I have worked on in the past :)
+
 **Project Files**: Each project folder includes all relevant files, such as source code, documentation, and supplementary resources.
 
 ## Contributing
